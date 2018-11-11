@@ -38,9 +38,6 @@ had a PR closed because of this, I will contact you directly.
 #### Are you really taking donations? You're barely even updating this anymore!?!
 
 Yeah, yeah. I hear ya. When I first created this project there were no links
-
-
-https://www.udacity.com/wiki/downloads 
 to donate. They were only added after receiving a surprising amount of requests
 from very kind people who found the project useful and asked for them.
 
@@ -286,3 +283,6 @@ business problems.
 1. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 1. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+
+
+https://www.udacity.com/wiki/downloads
