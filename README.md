@@ -38,6 +38,9 @@ had a PR closed because of this, I will contact you directly.
 #### Are you really taking donations? You're barely even updating this anymore!?!
 
 Yeah, yeah. I hear ya. When I first created this project there were no links
+
+
+https://www.udacity.com/wiki/downloads 
 to donate. They were only added after receiving a surprising amount of requests
 from very kind people who found the project useful and asked for them.
 
